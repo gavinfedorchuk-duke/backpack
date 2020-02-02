@@ -87,7 +87,7 @@
     "@storybook/addon-actions": "^5.3.10",
     "@storybook/addon-knobs": "^5.3.10",
     "@storybook/addon-links": "^5.3.9",
-    "@storybook/addon-viewport": "^5.2.8",
+    "@storybook/addon-viewport": "^5.3.9",
     "@storybook/react": "^5.2.8",
     "autoprefixer": "^9.4.7",
     "babel-jest": "^24.8.0",
